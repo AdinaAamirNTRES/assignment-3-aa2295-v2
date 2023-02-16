@@ -1,0 +1,20 @@
+---
+title: "index"
+output: html_document
+date: "2023-02-12"
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+
+```
+
+
+# Assignment 3 NTRES 6100
+
+<br>
+
+## Collaborators: Adina Aamir and Alexis Anderson
+
+![Caption: Adina thinks this image is funny](https://pbs.twimg.com/media/DAsjfPjXkAIBoET.jpg)
+
